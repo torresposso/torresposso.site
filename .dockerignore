@@ -1,0 +1,11 @@
+node_modules
+build
+tmp
+.git
+.env
+.env.test
+*.sqlite3
+*.sqlite3-journal
+README.md
+Dockerfile
+.github
